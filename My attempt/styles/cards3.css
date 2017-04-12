@@ -1,0 +1,35 @@
+a {
+  color: navy;
+  font-family: helvetica;
+}
+body {
+  font-family: courier;
+  background-color: #F5FAFA;
+}
+
+.card {
+  font-family: courier;
+  color: white;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  font-size: 450%;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.spades {
+  background-image: url('../images/spades.png');
+}
+
+.clubs {
+  background-image: url('../images/clubs.png');
+}
+
+.diamonds {
+  background-image: url('../images/diamonds.png');
+}
+
+.hearts {
+  background-image: url('../images/hearts.png');
+}
